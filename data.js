@@ -24,7 +24,7 @@ const CATALOG = [
 const KITS = [
   { 
     id: 103, 
-    name: "Kit JS Limpeza Completa", 
+    name: "Kit SJ Limpeza Completa", 
     description: "8 litros de desinfetante (Lavanda, Eucalipto e Lilás suave), Sabão líquido lavagem pesada, Sabão líquido para roupas, Limpa alumínio 300ml, 12 bom bril, 24 prendedores, 3 esponjas, 2 litros de cândida, 1 pá, 1 vassoura, 1 rodo, 2 pedras de sabão de soda, 3 sabões de coco.",
     items: [2, 19, 18, 4, 9, 7, 8, 1, 14, 12, 15, 17, 16], 
     price: 150.00, 
