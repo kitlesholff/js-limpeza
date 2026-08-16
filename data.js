@@ -17,8 +17,7 @@ const CATALOG = [
   { id: 16, name: "Barra de coco", category: "Sabões", price: 2.90, unit: "un", icon: "soap" },
   { id: 17, name: "Barra de sabão", category: "Sabões", price: 5.00, unit: "un", icon: "soap" },
   { id: 18, name: "Sabão líquido", category: "Roupas", price: 14.00, unit: "un", icon: "shirt" },
-  { id: 19, name: "Sabão lavagem pesada 2lt", category: "Roupas", price: 15.00, unit: "2lt", icon: "bottle" },
-  { id: 20, name: "testando", category: "Roupas", price: 8.00, unit: "1000lt", icon: "bottle" }
+  { id: 19, name: "Sabão lavagem pesada 2lt", category: "Líquidos", price: 15.00, unit: "2lt", icon: "bottle" },
 ];
 
 const KITS = [
