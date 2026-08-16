@@ -17,5 +17,17 @@ const CATALOG = [
   { id: 16, name: "Barra de coco", category: "Sabões", price: 2.90, unit: "un", icon: "soap" },
   { id: 17, name: "Barra de sabão", category: "Sabões", price: 5.00, unit: "un", icon: "soap" },
   { id: 18, name: "Sabão líquido", category: "Roupas", price: 14.00, unit: "un", icon: "shirt" },
-  { id: 19, name: "Sabão lavagem pesada 2lt", category: "Roupas", price: 15.00, unit: "2lt", icon: "bottle" }
+  { id: 19, name: "Sabão lavagem pesada 2lt", category: "Roupas", price: 15.00, unit: "2lt", icon: "bottle" },
+  { id: 20, name: "testando", category: "Roupas", price: 8.00, unit: "1000lt", icon: "bottle" }
+];
+
+const KITS = [
+  { 
+    id: 103, 
+    name: "Kit JS Limpeza Completa", 
+    description: "8L Desinfetante, Sabão líquido, Sabão roupas, Limpa alumínio 300ml, 12 Bom Bril, 24 Prendedores, 3 Esponjas, 2L Cândida, 1 Pá, 1 Vassoura, 1 Rodo, 2 Sabões Soda, 3 Sabões Coco.",
+    items: [2, 19, 18, 4, 9, 7, 8, 1, 14, 12, 15, 17, 16], 
+    price: 150.00, 
+    discount: 0.0 
+  }
 ];
